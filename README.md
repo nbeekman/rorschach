@@ -1,4 +1,4 @@
-rorschach
+Rorschach
 =========
 
 Rorschach created with Two.js
